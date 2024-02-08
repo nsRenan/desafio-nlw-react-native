@@ -1,4 +1,4 @@
-import { Children, ReactNode } from "react";
+import { ReactNode } from "react";
 import { TouchableOpacity, TouchableOpacityProps } from "react-native";
 import { Text } from "react-native";
 
